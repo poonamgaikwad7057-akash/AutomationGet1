@@ -55,8 +55,8 @@
     </dependencies>
 
     <build>
-        <plugins>
-			<build>
+       
+			
     <plugins>
 
         <plugin>
@@ -95,8 +95,6 @@
             </executions>
         </plugin>
 
-    </plugins>
-</build>
            
         </plugins>
     </build>
